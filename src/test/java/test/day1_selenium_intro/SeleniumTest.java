@@ -21,5 +21,6 @@ public class SeleniumTest {
         System.out.println("driver.getTitle()-->"+driver.getTitle());
         System.out.println("driver.getCurrentUrl()-->"+driver.getCurrentUrl());
         //System.out.println(driver.getPageSource());
+        System.out.println("hello");
     }
 }
